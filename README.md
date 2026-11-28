@@ -2,6 +2,12 @@
 
 A filesystem-first desktop browser with a terminal in the current folder and contextual Git controls.
 
+## Screenshot
+
+![Gitspace macOS file browser with Git status, changed files and terminal; original UI text remains readable](docs/gitspace-screenshot.png)
+
+*Gitspace is a filesystem-first workspace. Git controls appear only for repositories, and the terminal follows the current folder.*
+
 ## Product model
 
 Gitspace behaves more like Finder than an IDE:
